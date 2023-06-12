@@ -29,10 +29,10 @@ Contiene las siguientes secciones:
 
 ## 3. Objetivo del proyecto
 
-*Agregar etiquetas semánticas de HTML que den una mejor estructura a lo que estamos creando.
-*Aplicar conceptos de modelo de caja y display en CSS para agregar la apariencia de nuestra barra de navegación.
-*Agregar nuestros cambios de códigos al historial de cambios en Git y subirlos a GitHub.
-*Aprender a utilizar las etiquetas estándar de HtML5 y estilos de CSS3
+* Agregar etiquetas semánticas de HTML que den una mejor estructura a lo que estamos creando.
+* Aplicar conceptos de modelo de caja y display en CSS para agregar la apariencia de nuestra barra de navegación.
+* Agregar nuestros cambios de códigos al historial de cambios en Git y subirlos a GitHub.
+* Aprender a utilizar las etiquetas estándar de HtML5 y estilos de CSS3
 
 
 ## 4. Link a Demo
