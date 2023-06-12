@@ -37,7 +37,7 @@ Contiene las siguientes secciones:
 
 ## 4. Link a Demo
 
-Aquí puedes ver mi trabajo terminado: [HTML5 y CSS3- (Agregando barra de navegación)][(modulo1-s02-bedu.netlify.app)]
+Aquí puedes ver mi trabajo terminado: [HTML5 y CSS3- (Agregando barra de navegación)](modulo1-s02-bedu.netlify.app)
 
 
 ## 5. Postwork
