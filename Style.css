@@ -1,0 +1,122 @@
+/* ESTILOS GENERALES */
+::before,*::after{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #67b54b;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+.imagen-main{
+    margin: 0 auto;
+
+}
+
+body{
+    background-color: #fffbf7;
+    margin: 0;
+    vertical-align: middle;
+}
+   
+
+h1{
+    color: #025157;
+}
+.contenedor{
+    max-width: 80rem;
+    width: 90%;
+    margin:0  auto;
+}
+/* COMPONENTES */
+.text-center{
+    text-align: center;
+}
+/* HEADER */
+header{
+    padding: 10px;
+    font-size: 0;
+    background-color: black;
+    /* margin: 40px 20px 0; */
+    margin-bottom: 20px;
+    height: 45px;
+    font-family: sans-serif;
+
+}
+header > *{
+    display: inline-block;
+    font-size: 16px;
+    margin: 0;
+    vertical-align: middle;
+}
+.logo{
+    width: 15%;
+
+}
+.navbar{
+    width: 70%;
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+   
+
+}
+
+.action{
+    width: 15%;
+    display: inline;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    
+   
+}
+
+
+
+ul{
+    padding-left:0;
+    margin: 0;
+}
+li{
+    display: inline-block;
+    margin-left: 50px;
+}
+button{
+    display: inline;
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+}
+/* Parte de Contenedor */
+.parrafo-abajo{
+    color: #46484c;
+    /*Fuente de Google Fonts*/
+    font-family: 'Ubuntu', sans-serif;
+}
+.promocion{
+    color: #8b8b8bcc;
+       /*Fuente de Google Fonts*/
+       font-family: 'Bubblegum Sans', cursive;
+       font-family: 'Londrina Outline', cursive;
+       font-family: 'Phudu', cursive;
+       font-family: 'Quicksand', sans-serif;
+    
+}
+.btn{
+    color: #fff;
+    background-color: #025157;
+}
+
+footer{
+    text-align: center;
+}
+
+
