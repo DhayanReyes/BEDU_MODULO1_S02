@@ -7,7 +7,7 @@ Clase 02 de Frontend Fundamentals Santander 2023 desde la Plataforma BEDU
 * [2. ¿Qué construí?](#)
 * [3. Objetivo del Proyecto](#)
 * [4. Link a Demo](#)
-
+* [5. Postwork](#)
 
 ****
 ## 1. Intro
@@ -38,3 +38,11 @@ Contiene las siguientes secciones:
 ## 4. Link a Demo
 
 Aquí puedes ver mi trabajo terminado: [HTML5 y CSS3- (Agregando barra de navegación)](modulo1-s01-bedu.netlify.app)
+
+
+## 5. Postwork
+
+Escribe la diferencia entre px y rem como unidades de medida:
+****
+Las unidades de %, funcionan mejor en REM, ya que estás se adaptan. Los PX, son una unidad fija a comparación.
+
